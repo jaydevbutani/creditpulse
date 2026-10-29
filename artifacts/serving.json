@@ -1,0 +1,17 @@
+{
+  "model": "M6_multitask",
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "platt": {
+    "a": 0.1456126868724823,
+    "b": -3.3719449043273926,
+    "slope_fallback": false
+  },
+  "threshold_10pct_queue": 0.028466200456023216,
+  "model_version": "M6_multitask-ens5-cfg29476ad6e2-data1a2c09-f49070-9277f1"
+}

@@ -1,0 +1,31 @@
+{
+  "loan_status": {
+    "A": "contract finished, no problems",
+    "B": "contract finished, loan not paid",
+    "C": "running contract, OK so far",
+    "D": "running contract, client in debt"
+  },
+  "operation": {
+    "VYBER KARTOU": "card_withdrawal",
+    "VKLAD": "cash_deposit",
+    "PREVOD Z UCTU": "transfer_in",
+    "VYBER": "cash_withdrawal",
+    "PREVOD NA UCET": "transfer_out",
+    "INTEREST": "interest"
+  },
+  "k_symbol": {
+    "POJISTNE": "insurance",
+    "SLUZBY": "fees",
+    "UROK": "interest",
+    "SANKC. UROK": "penalty_interest",
+    "SIPO": "household",
+    "DUCHOD": "pension",
+    "UVER": "loan_payment",
+    "NONE": "none"
+  },
+  "frequency": {
+    "POPLATEK MESICNE": "monthly",
+    "POPLATEK TYDNE": "weekly",
+    "POPLATEK PO OBRATU": "after_transaction"
+  }
+}

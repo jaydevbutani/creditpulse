@@ -1,0 +1,112 @@
+{
+  "R-04": {
+    "pass": true,
+    "counts": {
+      "trans": 1056320,
+      "loan": 682,
+      "account": 4500
+    },
+    "expected": {
+      "trans": 1056320,
+      "loan": 682,
+      "account": 4500
+    }
+  },
+  "R-05": {
+    "pass": true,
+    "mapping": {
+      "A": "contract finished, no problems",
+      "B": "contract finished, loan not paid",
+      "C": "running contract, OK so far",
+      "D": "running contract, client in debt"
+    }
+  },
+  "R-07": {
+    "pass": true,
+    "operation_null": 183114,
+    "urok_rows": 183114,
+    "overlap": 183114,
+    "exceptions": 0,
+    "exception_explained": "op-null rows that are not UROK (and vice versa) are listed in data_checks.json",
+    "exception_sample": []
+  },
+  "R-08": {
+    "pass": true,
+    "min_pair_rate": 0.9999310214799112,
+    "per_pair": {
+      "credit/cash_deposit": 1.0,
+      "credit/interest": 0.99995,
+      "credit/transfer_in": 1.0,
+      "debit/card_withdrawal": 1.0,
+      "debit/cash_withdrawal": 0.99993,
+      "debit/transfer_out": 1.0
+    },
+    "vyber_rows_mapped_to_debit": 16666,
+    "vyber_debit_sign_rate": 1.0
+  },
+  "R-09": {
+    "pass": true,
+    "overall_mismatch_rate": 9.792550056093247e-05,
+    "accounts_with_any_mismatch": 23,
+    "worst_accounts": {
+      "9051": 0.0629,
+      "4618": 0.0473,
+      "7418": 0.0319,
+      "10857": 0.0318,
+      "6602": 0.0306
+    },
+    "opening_tx_balance_equals_amount_rate": 1.0
+  },
+  "R-10": {
+    "pass": true,
+    "loan_orphans": 0,
+    "trans_orphans": 0
+  },
+  "R-11": {
+    "pass": true,
+    "tx_before_opening": 0,
+    "max_days_before_opening": 0,
+    "chronological": true,
+    "max_date": "1998-12-31"
+  },
+  "R-12": {
+    "pass": true,
+    "loans_with_one_disbursement": 5,
+    "loans_without_disbursement": 677,
+    "finding": "Only 5 of 682 loans show a credit within 2% of the loan amount in the [-3,+45] day window: the Berka transaction table does not record loan payouts. Those few credits are flagged is_disbursement and excluded from inflow (C9); the remaining loans are listed as exceptions.",
+    "exception_loan_ids": [
+      2,
+      19,
+      25,
+      37,
+      38,
+      67,
+      97,
+      103,
+      105,
+      110,
+      132,
+      173,
+      176,
+      226,
+      276,
+      290,
+      303,
+      309,
+      314,
+      319
+    ]
+  },
+  "R-06": {
+    "pass": true,
+    "validated": [
+      "account",
+      "loan",
+      "trans"
+    ]
+  },
+  "C4": {
+    "blank_or_null_k_symbol_rows": 535314,
+    "raw_blank_strings": 535314
+  }
+}

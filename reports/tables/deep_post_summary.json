@@ -1,0 +1,29 @@
+{
+  "M7_pretrained": {
+    "val_pr_auc_mean": 0.042589046292629586,
+    "pretrain": {
+      "windows": 40000,
+      "max_cutoff": "1996-12",
+      "loss_first": 1.0301667155733534,
+      "loss_last": 0.3709303740483181
+    }
+  },
+  "M6_no_distress_inputs": {
+    "val_pr_auc_mean": 0.03785581853043414
+  },
+  "M6_no_loan_static": {
+    "val_pr_auc_mean": 0.05860665294377043
+  },
+  "M6_mean_pooling": {
+    "val_pr_auc_mean": 0.03451254721950405
+  },
+  "M6_headA_from_F6": {
+    "val_pr_auc_mean": 0.05137199155684353
+  },
+  "M6_focal_loss": {
+    "val_pr_auc_mean": 0.030296355116196914
+  },
+  "M6_no_class_weight": {
+    "val_pr_auc_mean": 0.023604636304803236
+  }
+}

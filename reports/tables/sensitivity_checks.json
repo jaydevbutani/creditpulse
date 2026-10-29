@@ -1,0 +1,33 @@
+{
+  "R-46": {
+    "pass": true,
+    "variants": 9,
+    "p2_folds": 3
+  },
+  "T4_time_order_P2": {
+    "pass": true,
+    "folds": [
+      {
+        "boundary": "1996-12-31",
+        "max_train_label_end": 23963,
+        "boundary_mi": 23963,
+        "min_test_cutoff": 23964,
+        "ordered": true
+      },
+      {
+        "boundary": "1997-06-30",
+        "max_train_label_end": 23969,
+        "boundary_mi": 23969,
+        "min_test_cutoff": 23970,
+        "ordered": true
+      },
+      {
+        "boundary": "1997-12-31",
+        "max_train_label_end": 23975,
+        "boundary_mi": 23975,
+        "min_test_cutoff": 23976,
+        "ordered": true
+      }
+    ]
+  }
+}

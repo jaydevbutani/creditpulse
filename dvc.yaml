@@ -1,0 +1,9 @@
+# Data/feature versioning (report §6). `dvc repro` mirrors `make all`; `dvc push/pull` moves data/ and artifacts/.
+stages:
+  data:      {cmd: python -m creditpulse.data.load,        deps: [data/raw, src/creditpulse/data],     outs: [data/interim]}
+  labels:    {cmd: python -m creditpulse.labels.events,    deps: [data/interim, src/creditpulse/labels], outs: [data/processed/snapshots.parquet, data/processed/loans_events.parquet]}
+  panel:     {cmd: python -m creditpulse.features.panel,   deps: [data/interim, src/creditpulse/features/panel.py], outs: [data/processed/panel.parquet]}
+  features:  {cmd: python -m creditpulse.features.tokens,  deps: [data/processed/panel.parquet, data/processed/snapshots.parquet], outs: [data/processed/tokens_p1.npz, artifacts/preprocessor.json]}
+  baselines: {cmd: python -m creditpulse.train.baselines,  deps: [data/processed/tokens_p1.npz, configs/default.yaml]}
+  deep:      {cmd: make deep deep-post,                    deps: [data/processed/tokens_p1.npz, configs/default.yaml]}
+  evaluate:  {cmd: make sensitivity evaluate explain batch report, deps: [artifacts/preds]}

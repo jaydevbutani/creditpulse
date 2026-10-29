@@ -1,0 +1,26 @@
+loan_id,account_id,borrower_name,sector,origination_date,as_of_date,principal_amount,monthly_payment,duration_months,balance_eom,balance_min,inflow_monthly,outflow_monthly,days_negative_balance,dpd_status
+6001,3001,SME Regional Facility #6001,Retail & Distribution,1995-04-10,1998-06-30,96000,2880.0,36,52199,34000,84155,102645,14,30D Past Due
+6002,3002,SME Regional Facility #6002,Precision Engineering,1995-04-10,1998-06-30,120000,10800.0,12,44782,34000,84706,84230,14,30D Past Due
+6003,3003,SME Regional Facility #6003,Food Services & Agritech,1995-04-10,1998-06-30,180000,16200.0,12,38321,19000,41554,32339,8,30D Past Due
+6004,3004,SME Regional Facility #6004,Hospitality & Leisure,1995-04-10,1998-06-30,96000,2880.0,36,32994,19000,59955,71183,14,30D Past Due
+6005,3005,SME Regional Facility #6005,Logistics & Fleet,1995-04-10,1998-06-30,48000,1440.0,36,5275,-4200,65772,69990,8,30D Past Due
+6006,3006,SME Regional Facility #6006,Retail & Distribution,1995-04-10,1998-06-30,48000,1440.0,36,39605,19000,56408,65907,14,30D Past Due
+6007,3007,SME Regional Facility #6007,Precision Engineering,1995-04-10,1998-06-30,180000,5400.0,36,43818,19000,51991,64941,4,15D Past Due
+6008,3008,SME Regional Facility #6008,Food Services & Agritech,1995-04-10,1998-06-30,120000,3600.0,36,57074,34000,59132,53082,4,15D Past Due
+6009,3009,SME Regional Facility #6009,Hospitality & Leisure,1995-04-10,1998-06-30,180000,16200.0,12,24369,19000,39603,42160,14,30D Past Due
+6010,3010,SME Regional Facility #6010,Logistics & Fleet,1995-04-10,1998-06-30,96000,4320.0,24,43256,19000,67052,78980,0,Performing (0 DPD)
+6011,3011,SME Regional Facility #6011,Retail & Distribution,1995-04-10,1998-06-30,120000,10800.0,12,20117,-4200,50562,57869,4,15D Past Due
+6012,3012,SME Regional Facility #6012,Precision Engineering,1995-04-10,1998-06-30,120000,10800.0,12,43518,19000,53130,62489,8,30D Past Due
+6013,3013,SME Regional Facility #6013,Food Services & Agritech,1995-04-10,1998-06-30,48000,4320.0,12,40919,34000,67728,61370,8,30D Past Due
+6014,3014,SME Regional Facility #6014,Hospitality & Leisure,1995-04-10,1998-06-30,120000,3600.0,36,42321,19000,83088,63814,1,Performing (0 DPD)
+6015,3015,SME Regional Facility #6015,Logistics & Fleet,1995-04-10,1998-06-30,180000,16200.0,12,23131,1200,62478,64022,0,Performing (0 DPD)
+6016,3016,SME Regional Facility #6016,Retail & Distribution,1995-04-10,1998-06-30,72000,3240.0,24,16709,-4200,25842,22004,0,Performing (0 DPD)
+6017,3017,SME Regional Facility #6017,Precision Engineering,1995-04-10,1998-06-30,48000,1440.0,36,14976,-4200,26798,23428,8,30D Past Due
+6018,3018,SME Regional Facility #6018,Food Services & Agritech,1995-04-10,1998-06-30,120000,10800.0,12,37202,19000,60860,63314,14,30D Past Due
+6019,3019,SME Regional Facility #6019,Hospitality & Leisure,1995-04-10,1998-06-30,72000,3240.0,24,9078,-4200,56239,65855,4,15D Past Due
+6020,3020,SME Regional Facility #6020,Logistics & Fleet,1995-04-10,1998-06-30,180000,8100.0,24,15071,-4200,45411,54068,0,Performing (0 DPD)
+6021,3021,SME Regional Facility #6021,Retail & Distribution,1995-04-10,1998-06-30,96000,8640.0,12,36361,19000,53021,43796,0,Performing (0 DPD)
+6022,3022,SME Regional Facility #6022,Precision Engineering,1995-04-10,1998-06-30,120000,5400.0,24,2363,-4200,52824,63969,0,Performing (0 DPD)
+6023,3023,SME Regional Facility #6023,Food Services & Agritech,1995-04-10,1998-06-30,72000,2160.0,36,22963,1200,36339,27585,14,30D Past Due
+6024,3024,SME Regional Facility #6024,Hospitality & Leisure,1995-04-10,1998-06-30,48000,4320.0,12,7510,1200,49858,46966,0,Performing (0 DPD)
+6025,3025,SME Regional Facility #6025,Logistics & Fleet,1995-04-10,1998-06-30,96000,4320.0,24,27903,8500,61760,58166,1,Performing (0 DPD)

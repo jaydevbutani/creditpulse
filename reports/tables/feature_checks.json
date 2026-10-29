@@ -1,0 +1,35 @@
+{
+  "R-19": {
+    "pass": true,
+    "padded_fraction": 0.004801297560334206
+  },
+  "R-20": {
+    "pass": true,
+    "fit_range": [
+      "1993-10-31",
+      "1998-11-30"
+    ],
+    "fit_tokens": 89659,
+    "fitted_on": "train-split loans only (no val/test loan contributes)"
+  },
+  "R-22": {
+    "pass": true,
+    "n_above_0.25": 2,
+    "flagged": {
+      "loan_age": 3.789,
+      "account_age": 2.082
+    },
+    "review": "Flagged features are calendar/loan-age driven (test loans are younger and observed later); they are kept and discussed in the model card."
+  },
+  "R-24": {
+    "pass": true,
+    "max_auc": 0.8847301071410985,
+    "top5": {
+      "bal_eom__min": 0.885,
+      "bal_min__min": 0.873,
+      "bal_min__std": 0.87,
+      "bal_mean__min": 0.833,
+      "bal_rm3__min": 0.815
+    }
+  }
+}

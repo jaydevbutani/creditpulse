@@ -1,0 +1,151 @@
+loan_id,account_id,borrower_name,month,sector,loan_amount,principal_amount,balance,balance_min,inflow,outflow,transaction_count,payment_amount,loan_payment,days_below_zero,loan_age,dpd_status,cohort,default_indicator,target
+7001,20001,Retail Facility #7001,1998-12,Retail & Distribution,3500000,3500000,83372.93,35912.77,522042.66,368731.85,87,145833.33,145833.33,0,13,Performing (0 DPD),Stable Performing,0,0
+7002,20002,Enterprise Facility #7002,1998-12,Enterprise Software & SaaS,250000,250000,108981.75,63275.42,7817.83,5250.06,89,4166.67,4166.67,0,43,Performing (0 DPD),Stable Performing,0,0
+7003,20003,Healthcare Facility #7003,1998-12,Healthcare & MedTech,500000,500000,267593.38,107559.06,19408.8,15246.22,38,8333.33,8333.33,0,47,Performing (0 DPD),Stable Performing,0,0
+7004,20004,Retail Facility #7004,1998-12,Retail & Distribution,3500000,3500000,254960.89,109802.24,179877.49,125828.29,66,72916.67,72916.67,0,33,Performing (0 DPD),Stable Performing,0,0
+7005,20005,Enterprise Facility #7005,1998-12,Enterprise Software & SaaS,250000,250000,245676.24,137792.05,16921.56,14140.32,66,5208.33,5208.33,0,28,Performing (0 DPD),Stable Performing,0,0
+7006,20006,Healthcare Facility #7006,1998-12,Healthcare & MedTech,250000,250000,281969.4,161626.45,19742.55,15641.22,26,5208.33,5208.33,0,41,Performing (0 DPD),Stable Performing,0,0
+7007,20007,Retail Facility #7007,1998-12,Retail & Distribution,250000,250000,280212.37,184924.78,25384.46,22252.04,66,6944.44,6944.44,0,48,Performing (0 DPD),Stable Performing,0,0
+7008,20008,Enterprise Facility #7008,1998-12,Enterprise Software & SaaS,750000,750000,229298.17,139997.1,34224.53,25042.51,27,15625.0,15625.0,0,35,Performing (0 DPD),Stable Performing,0,0
+7009,20009,Healthcare Facility #7009,1998-12,Healthcare & MedTech,2000000,2000000,172121.56,82787.78,171218.66,120932.85,89,55555.56,55555.56,0,46,Performing (0 DPD),Stable Performing,0,0
+7010,20010,Retail Facility #7010,1998-12,Retail & Distribution,500000,500000,131749.59,63282.26,48952.4,32180.48,45,20833.33,20833.33,0,26,Performing (0 DPD),Stable Performing,0,0
+7011,20011,Enterprise Facility #7011,1998-12,Enterprise Software & SaaS,2000000,2000000,296500.59,159415.19,187391.84,138856.48,51,55555.56,55555.56,0,26,Performing (0 DPD),Stable Performing,0,0
+7012,20012,Healthcare Facility #7012,1998-12,Healthcare & MedTech,500000,500000,205471.55,104502.61,37425.36,28014.37,35,10416.67,10416.67,0,21,Performing (0 DPD),Stable Performing,0,0
+7013,20013,Retail Facility #7013,1998-12,Retail & Distribution,2000000,2000000,87031.36,38989.58,301156.42,255396.81,72,83333.33,83333.33,0,37,Performing (0 DPD),Stable Performing,0,0
+7014,20014,Enterprise Facility #7014,1998-12,Enterprise Software & SaaS,2000000,2000000,190506.44,131701.58,90529.53,79585.23,19,33333.33,33333.33,0,10,Performing (0 DPD),Stable Performing,0,0
+7015,20015,Healthcare Facility #7015,1998-12,Healthcare & MedTech,3500000,3500000,125712.54,56249.74,265754.79,193533.36,18,72916.67,72916.67,0,13,Performing (0 DPD),Stable Performing,0,0
+7016,20016,Retail Facility #7016,1998-12,Retail & Distribution,3500000,3500000,216957.55,141564.98,293459.05,197930.64,82,97222.22,97222.22,0,22,Performing (0 DPD),Stable Performing,0,0
+7017,20017,Enterprise Facility #7017,1998-12,Enterprise Software & SaaS,2000000,2000000,307212.43,207899.94,149855.19,102973.93,18,55555.56,55555.56,0,18,Performing (0 DPD),Stable Performing,0,0
+7018,20018,Healthcare Facility #7018,1998-12,Healthcare & MedTech,2000000,2000000,286648.52,186178.12,61558.13,53167.31,57,33333.33,33333.33,0,26,Performing (0 DPD),Stable Performing,0,0
+7019,20019,Retail Facility #7019,1998-12,Retail & Distribution,500000,500000,68554.7,37416.96,54266.99,47092.81,26,13888.89,13888.89,0,9,Performing (0 DPD),Stable Performing,0,0
+7020,20020,Enterprise Facility #7020,1998-12,Enterprise Software & SaaS,2000000,2000000,90409.91,50476.05,187966.79,163112.92,95,55555.56,55555.56,0,14,Performing (0 DPD),Stable Performing,0,0
+7021,20021,Healthcare Facility #7021,1998-12,Healthcare & MedTech,1200000,1200000,229713.91,117619.53,117035.91,86813.52,84,33333.33,33333.33,0,19,Performing (0 DPD),Stable Performing,0,0
+7022,20022,Retail Facility #7022,1998-12,Retail & Distribution,1200000,1200000,206784.9,96989.24,77975.78,56747.63,46,33333.33,33333.33,0,13,Performing (0 DPD),Stable Performing,0,0
+7023,20023,Enterprise Facility #7023,1998-12,Enterprise Software & SaaS,250000,250000,281399.74,118541.67,24473.55,21004.34,48,10416.67,10416.67,0,10,Performing (0 DPD),Stable Performing,0,0
+7024,20024,Healthcare Facility #7024,1998-12,Healthcare & MedTech,750000,750000,302266.42,172688.71,28927.1,19682.92,78,12500.0,12500.0,0,48,Performing (0 DPD),Stable Performing,0,0
+7025,20025,Retail Facility #7025,1998-12,Retail & Distribution,500000,500000,163539.08,86197.13,18808.19,12644.63,77,8333.33,8333.33,0,36,Performing (0 DPD),Stable Performing,0,0
+7026,20026,Commercial Facility #7026,1998-12,Commercial Real Estate,3500000,3500000,17023.7,-2000.0,283714.43,384397.52,42,145833.33,145833.33,4,9,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7027,20027,Logistics Facility #7027,1998-12,Logistics & Fleet,2000000,2000000,-5007.74,-28473.05,156250.9,187109.02,88,55555.56,55555.56,6,34,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7028,20028,Precision Facility #7028,1998-12,Precision Engineering,250000,250000,18947.83,-2000.0,42974.92,61206.1,79,10416.67,10416.67,6,9,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7029,20029,Commercial Facility #7029,1998-12,Commercial Real Estate,500000,500000,616.87,-22913.49,45731.85,50339.53,54,20833.33,20833.33,6,31,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7030,20030,Logistics Facility #7030,1998-12,Logistics & Fleet,1200000,1200000,23748.37,-2000.0,43430.25,52283.41,58,20000.0,20000.0,3,41,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7031,20031,Precision Facility #7031,1998-12,Precision Engineering,250000,250000,-8702.69,-32918.27,12528.51,17520.52,41,4166.67,4166.67,3,9,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7032,20032,Commercial Facility #7032,1998-12,Commercial Real Estate,250000,250000,-10204.54,-33010.29,35630.33,42126.5,92,10416.67,10416.67,4,44,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7033,20033,Logistics Facility #7033,1998-12,Logistics & Fleet,2000000,2000000,5911.31,-17782.82,233844.97,305000.56,58,83333.33,83333.33,4,8,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7034,20034,Precision Facility #7034,1998-12,Precision Engineering,500000,500000,3288.98,-20291.39,17617.56,23359.57,19,8333.33,8333.33,3,22,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7035,20035,Commercial Facility #7035,1998-12,Commercial Real Estate,1200000,1200000,-4391.98,-28057.17,98791.29,116040.65,49,50000.0,50000.0,3,45,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7036,20036,Logistics Facility #7036,1998-12,Logistics & Fleet,750000,750000,-2899.31,-27576.38,59409.22,76645.4,88,20833.33,20833.33,3,24,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7037,20037,Precision Facility #7037,1998-12,Precision Engineering,750000,750000,-10382.85,-17523.57,126669.75,145290.44,52,31250.0,31250.0,4,48,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7038,20038,Commercial Facility #7038,1998-12,Commercial Real Estate,750000,750000,10369.52,-2000.0,73380.6,85947.69,50,20833.33,20833.33,6,44,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7039,20039,Logistics Facility #7039,1998-12,Logistics & Fleet,250000,250000,-1657.74,-9274.13,15793.49,17616.54,38,4166.67,4166.67,5,11,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7040,20040,Precision Facility #7040,1998-12,Precision Engineering,3500000,3500000,22802.04,-2000.0,183526.95,209065.8,87,58333.33,58333.33,4,34,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7041,20041,Commercial Facility #7041,1998-12,Commercial Real Estate,250000,250000,-413.94,-24075.7,19663.1,21917.28,63,6944.44,6944.44,3,29,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7042,20042,Logistics Facility #7042,1998-12,Logistics & Fleet,500000,500000,19988.51,-4488.23,55183.92,71516.11,48,20833.33,20833.33,4,21,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7043,20043,Precision Facility #7043,1998-12,Precision Engineering,500000,500000,-1712.58,-25328.9,15495.72,21040.05,52,8333.33,8333.33,4,17,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7044,20044,Commercial Facility #7044,1998-12,Commercial Real Estate,500000,500000,-6102.65,-27434.38,32443.32,45437.12,62,8333.33,8333.33,6,12,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7045,20045,Logistics Facility #7045,1998-12,Logistics & Fleet,750000,750000,-1869.52,-24156.58,38683.22,45166.35,62,20833.33,20833.33,5,20,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7046,20046,Precision Facility #7046,1998-12,Precision Engineering,3500000,3500000,-1754.01,-7306.02,200132.53,279241.2,40,58333.33,58333.33,5,38,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7047,20047,Commercial Facility #7047,1998-12,Commercial Real Estate,2000000,2000000,14141.8,-2000.0,171680.5,214960.69,67,83333.33,83333.33,3,22,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7048,20048,Logistics Facility #7048,1998-12,Logistics & Fleet,2000000,2000000,5796.81,-15333.41,79438.66,99506.46,64,41666.67,41666.67,4,18,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7049,20049,Precision Facility #7049,1998-12,Precision Engineering,1200000,1200000,-10014.99,-33015.93,82389.32,109757.87,70,25000.0,25000.0,5,10,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7050,20050,Commercial Facility #7050,1998-12,Commercial Real Estate,750000,750000,11597.18,-2000.0,48915.47,57091.4,90,15625.0,15625.0,4,31,Watchlist (1-29 DPD),Gradual Deterioration,1,1
+7051,20051,Enterprise Facility #7051,1998-12,Enterprise Software & SaaS,750000,750000,16430.35,-2000.0,79040.62,92759.22,77,31250.0,31250.0,10,31,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7052,20052,Healthcare Facility #7052,1998-12,Healthcare & MedTech,1200000,1200000,23393.28,-2000.0,100893.91,139012.37,54,33333.33,33333.33,8,34,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7053,20053,Retail Facility #7053,1998-12,Retail & Distribution,2000000,2000000,-5605.26,-16813.65,84338.73,120874.26,36,41666.67,41666.67,9,48,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7054,20054,Enterprise Facility #7054,1998-12,Enterprise Software & SaaS,250000,250000,15739.57,-2000.0,28898.92,37971.62,67,6944.44,6944.44,9,8,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7055,20055,Healthcare Facility #7055,1998-12,Healthcare & MedTech,1200000,1200000,20706.39,-2000.0,71805.7,96267.59,72,33333.33,33333.33,8,31,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7056,20056,Retail Facility #7056,1998-12,Retail & Distribution,500000,500000,18933.45,-2000.0,16004.36,19000.69,85,8333.33,8333.33,11,17,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7057,20057,Enterprise Facility #7057,1998-12,Enterprise Software & SaaS,2000000,2000000,9506.09,-9879.39,170003.97,240045.45,88,41666.67,41666.67,11,44,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7058,20058,Healthcare Facility #7058,1998-12,Healthcare & MedTech,1200000,1200000,18594.52,-2000.0,57603.35,78520.39,48,20000.0,20000.0,11,16,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7059,20059,Retail Facility #7059,1998-12,Retail & Distribution,750000,750000,-1566.1,-24426.64,109765.86,129751.23,35,31250.0,31250.0,8,34,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7060,20060,Enterprise Facility #7060,1998-12,Enterprise Software & SaaS,500000,500000,-12430.85,-25582.84,28878.98,38907.11,71,8333.33,8333.33,11,20,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7061,20061,Healthcare Facility #7061,1998-12,Healthcare & MedTech,250000,250000,22842.48,-2000.0,11394.78,15604.34,79,4166.67,4166.67,11,19,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7062,20062,Retail Facility #7062,1998-12,Retail & Distribution,250000,250000,23137.21,-2000.0,18793.43,26286.5,80,5208.33,5208.33,9,28,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7063,20063,Enterprise Facility #7063,1998-12,Enterprise Software & SaaS,500000,500000,11754.94,-9207.91,24712.83,30547.53,77,8333.33,8333.33,9,23,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7064,20064,Healthcare Facility #7064,1998-12,Healthcare & MedTech,500000,500000,11519.99,-2000.0,82846.43,108293.74,35,20833.33,20833.33,11,45,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7065,20065,Retail Facility #7065,1998-12,Retail & Distribution,1200000,1200000,3187.97,-8562.04,121218.76,147229.09,53,50000.0,50000.0,11,17,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7066,20066,Enterprise Facility #7066,1998-12,Enterprise Software & SaaS,1200000,1200000,-12916.58,-36954.97,146436.82,199470.16,26,50000.0,50000.0,9,22,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7067,20067,Healthcare Facility #7067,1998-12,Healthcare & MedTech,3500000,3500000,-14184.8,-22232.45,594864.09,695857.88,78,145833.33,145833.33,9,8,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7068,20068,Retail Facility #7068,1998-12,Retail & Distribution,3500000,3500000,-244.19,-17362.04,283507.92,337285.2,38,97222.22,97222.22,8,13,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7069,20069,Enterprise Facility #7069,1998-12,Enterprise Software & SaaS,750000,750000,21321.05,-2000.0,125916.54,163884.01,27,31250.0,31250.0,9,12,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7070,20070,Healthcare Facility #7070,1998-12,Healthcare & MedTech,2000000,2000000,19011.73,-2000.0,113586.85,155655.82,90,55555.56,55555.56,8,46,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7071,20071,Retail Facility #7071,1998-12,Retail & Distribution,250000,250000,10901.73,-2000.0,14115.22,15867.41,80,4166.67,4166.67,11,28,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7072,20072,Enterprise Facility #7072,1998-12,Enterprise Software & SaaS,250000,250000,13292.35,-2000.0,17319.8,24075.35,86,5208.33,5208.33,10,33,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7073,20073,Healthcare Facility #7073,1998-12,Healthcare & MedTech,1200000,1200000,-2107.82,-12017.72,75635.26,98882.98,53,20000.0,20000.0,8,35,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7074,20074,Retail Facility #7074,1998-12,Retail & Distribution,1200000,1200000,-1544.14,-16430.27,63352.78,84504.12,41,20000.0,20000.0,10,21,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7075,20075,Enterprise Facility #7075,1998-12,Enterprise Software & SaaS,1200000,1200000,20212.8,-2000.0,92869.94,113219.47,89,25000.0,25000.0,10,19,Substandard (30-59 DPD),Acute Liquidity Distress,1,1
+7076,20076,Logistics Facility #7076,1998-12,Logistics & Fleet,250000,250000,179358.91,112538.64,13926.87,11358.99,78,6944.44,6944.44,0,39,Performing (0 DPD),Cash-Flow Volatility,0,0
+7077,20077,Precision Facility #7077,1998-12,Precision Engineering,3500000,3500000,105939.01,64361.78,216010.59,145030.0,57,58333.33,58333.33,0,37,Performing (0 DPD),Cash-Flow Volatility,0,0
+7078,20078,Commercial Facility #7078,1998-12,Commercial Real Estate,3500000,3500000,162013.55,101060.91,214070.6,165286.49,60,72916.67,72916.67,0,43,Performing (0 DPD),Cash-Flow Volatility,0,0
+7079,20079,Logistics Facility #7079,1998-12,Logistics & Fleet,750000,750000,243353.19,120378.16,39623.36,27856.16,86,15625.0,15625.0,0,35,Performing (0 DPD),Cash-Flow Volatility,0,0
+7080,20080,Precision Facility #7080,1998-12,Precision Engineering,3500000,3500000,244260.88,169268.42,225489.74,171680.15,85,97222.22,97222.22,0,17,Performing (0 DPD),Cash-Flow Volatility,0,0
+7081,20081,Commercial Facility #7081,1998-12,Commercial Real Estate,2000000,2000000,144242.29,70776.85,316525.66,227308.69,86,83333.33,83333.33,0,24,Performing (0 DPD),Cash-Flow Volatility,0,0
+7082,20082,Logistics Facility #7082,1998-12,Logistics & Fleet,500000,500000,236789.78,103686.42,86214.73,67012.34,80,20833.33,20833.33,0,23,Performing (0 DPD),Cash-Flow Volatility,0,0
+7083,20083,Precision Facility #7083,1998-12,Precision Engineering,250000,250000,95700.01,39755.03,15242.45,11451.77,79,5208.33,5208.33,0,6,Performing (0 DPD),Cash-Flow Volatility,0,0
+7084,20084,Commercial Facility #7084,1998-12,Commercial Real Estate,250000,250000,233774.03,104150.56,12417.48,9719.35,90,4166.67,4166.67,0,10,Performing (0 DPD),Cash-Flow Volatility,0,0
+7085,20085,Logistics Facility #7085,1998-12,Logistics & Fleet,750000,750000,211737.35,134923.75,43422.57,35859.31,46,20833.33,20833.33,0,11,Performing (0 DPD),Cash-Flow Volatility,0,0
+7086,20086,Precision Facility #7086,1998-12,Precision Engineering,2000000,2000000,206844.41,109348.08,132680.34,95316.39,90,33333.33,33333.33,0,30,Performing (0 DPD),Cash-Flow Volatility,0,0
+7087,20087,Commercial Facility #7087,1998-12,Commercial Real Estate,2000000,2000000,103031.93,61626.33,339518.03,236912.7,38,83333.33,83333.33,0,9,Performing (0 DPD),Cash-Flow Volatility,0,0
+7088,20088,Logistics Facility #7088,1998-12,Logistics & Fleet,500000,500000,234577.06,126900.03,45326.62,33721.15,22,20833.33,20833.33,0,17,Performing (0 DPD),Cash-Flow Volatility,0,0
+7089,20089,Precision Facility #7089,1998-12,Precision Engineering,500000,500000,234030.85,158479.45,36324.7,27404.34,93,10416.67,10416.67,0,24,Performing (0 DPD),Cash-Flow Volatility,0,0
+7090,20090,Commercial Facility #7090,1998-12,Commercial Real Estate,3500000,3500000,85972.09,41239.93,121068.68,84954.64,36,58333.33,58333.33,0,18,Performing (0 DPD),Cash-Flow Volatility,0,0
+7091,20091,Logistics Facility #7091,1998-12,Logistics & Fleet,250000,250000,271666.08,183743.46,25710.46,20230.54,74,6944.44,6944.44,0,9,Performing (0 DPD),Cash-Flow Volatility,0,0
+7092,20092,Precision Facility #7092,1998-12,Precision Engineering,250000,250000,182629.85,100106.46,18121.66,15708.14,28,5208.33,5208.33,0,35,Performing (0 DPD),Cash-Flow Volatility,0,0
+7093,20093,Commercial Facility #7093,1998-12,Commercial Real Estate,2000000,2000000,52112.85,24424.11,118762.7,93686.45,91,33333.33,33333.33,0,8,Performing (0 DPD),Cash-Flow Volatility,0,0
+7094,20094,Logistics Facility #7094,1998-12,Logistics & Fleet,2000000,2000000,93177.45,51777.7,132624.71,109483.7,74,41666.67,41666.67,0,7,Performing (0 DPD),Cash-Flow Volatility,0,0
+7095,20095,Precision Facility #7095,1998-12,Precision Engineering,750000,750000,70091.66,35353.41,41543.54,31701.75,60,12500.0,12500.0,0,17,Performing (0 DPD),Cash-Flow Volatility,0,0
+7096,20096,Commercial Facility #7096,1998-12,Commercial Real Estate,750000,750000,235760.26,114689.19,120579.98,87523.56,69,31250.0,31250.0,0,48,Performing (0 DPD),Cash-Flow Volatility,0,0
+7097,20097,Logistics Facility #7097,1998-12,Logistics & Fleet,2000000,2000000,76878.44,48569.06,67044.78,47471.17,83,33333.33,33333.33,0,8,Performing (0 DPD),Cash-Flow Volatility,0,0
+7098,20098,Precision Facility #7098,1998-12,Precision Engineering,250000,250000,144489.32,90585.12,11632.49,8062.99,74,4166.67,4166.67,0,48,Performing (0 DPD),Cash-Flow Volatility,0,0
+7099,20099,Commercial Facility #7099,1998-12,Commercial Real Estate,250000,250000,165481.93,100857.1,16240.24,14021.25,33,5208.33,5208.33,0,19,Performing (0 DPD),Cash-Flow Volatility,0,0
+7100,20100,Logistics Facility #7100,1998-12,Logistics & Fleet,250000,250000,48760.48,25472.34,24329.7,17553.21,46,6944.44,6944.44,0,46,Performing (0 DPD),Cash-Flow Volatility,0,0
+7101,20101,Healthcare Facility #7101,1998-12,Healthcare & MedTech,250000,250000,301479.59,146988.93,34942.75,23950.23,52,10416.67,10416.67,0,35,Special Mention (Qualitative),Human Flagged (Override),0,0
+7102,20102,Retail Facility #7102,1998-12,Retail & Distribution,1200000,1200000,150486.15,101812.98,47699.08,37052.21,83,20000.0,20000.0,0,36,Special Mention (Qualitative),Human Flagged (Override),0,0
+7103,20103,Enterprise Facility #7103,1998-12,Enterprise Software & SaaS,3500000,3500000,159109.17,108237.91,359186.58,298735.99,82,145833.33,145833.33,0,14,Special Mention (Qualitative),Human Flagged (Override),0,0
+7104,20104,Healthcare Facility #7104,1998-12,Healthcare & MedTech,750000,750000,204478.93,122274.77,55351.91,46640.6,37,15625.0,15625.0,0,6,Special Mention (Qualitative),Human Flagged (Override),0,0
+7105,20105,Retail Facility #7105,1998-12,Retail & Distribution,1200000,1200000,194443.27,104338.92,52565.95,40840.64,59,20000.0,20000.0,0,40,Special Mention (Qualitative),Human Flagged (Override),0,0
+7106,20106,Enterprise Facility #7106,1998-12,Enterprise Software & SaaS,500000,500000,57003.01,35536.33,19671.24,16295.17,66,8333.33,8333.33,0,21,Special Mention (Qualitative),Human Flagged (Override),0,0
+7107,20107,Healthcare Facility #7107,1998-12,Healthcare & MedTech,1200000,1200000,183130.07,105675.96,99626.28,65605.35,30,33333.33,33333.33,0,48,Special Mention (Qualitative),Human Flagged (Override),0,0
+7108,20108,Retail Facility #7108,1998-12,Retail & Distribution,1200000,1200000,284506.57,196590.35,36736.68,25096.87,27,20000.0,20000.0,0,12,Special Mention (Qualitative),Human Flagged (Override),0,0
+7109,20109,Enterprise Facility #7109,1998-12,Enterprise Software & SaaS,1200000,1200000,67086.71,33447.4,82395.56,61089.81,86,25000.0,25000.0,0,22,Special Mention (Qualitative),Human Flagged (Override),0,0
+7110,20110,Healthcare Facility #7110,1998-12,Healthcare & MedTech,1200000,1200000,63815.71,37609.68,77874.38,51261.34,54,20000.0,20000.0,0,26,Special Mention (Qualitative),Human Flagged (Override),0,0
+7111,20111,Retail Facility #7111,1998-12,Retail & Distribution,500000,500000,238569.98,102621.4,34566.74,28513.59,39,8333.33,8333.33,0,11,Special Mention (Qualitative),Human Flagged (Override),0,0
+7112,20112,Enterprise Facility #7112,1998-12,Enterprise Software & SaaS,3500000,3500000,125676.14,64403.03,278596.83,232102.64,36,145833.33,145833.33,0,25,Special Mention (Qualitative),Human Flagged (Override),0,0
+7113,20113,Healthcare Facility #7113,1998-12,Healthcare & MedTech,500000,500000,91745.5,38871.7,26318.55,21904.39,66,8333.33,8333.33,0,39,Special Mention (Qualitative),Human Flagged (Override),0,0
+7114,20114,Retail Facility #7114,1998-12,Retail & Distribution,2000000,2000000,171816.23,81817.72,133026.31,90845.94,50,33333.33,33333.33,0,21,Special Mention (Qualitative),Human Flagged (Override),0,0
+7115,20115,Enterprise Facility #7115,1998-12,Enterprise Software & SaaS,3500000,3500000,88443.3,47097.73,231169.31,186287.9,62,58333.33,58333.33,0,6,Special Mention (Qualitative),Human Flagged (Override),0,0
+7116,20116,Healthcare Facility #7116,1998-12,Healthcare & MedTech,2000000,2000000,128083.46,89634.35,115225.07,87003.25,79,33333.33,33333.33,0,25,Special Mention (Qualitative),Human Flagged (Override),0,0
+7117,20117,Retail Facility #7117,1998-12,Retail & Distribution,250000,250000,317990.31,155360.28,13219.24,10340.18,68,4166.67,4166.67,0,21,Special Mention (Qualitative),Human Flagged (Override),0,0
+7118,20118,Enterprise Facility #7118,1998-12,Enterprise Software & SaaS,750000,750000,274030.7,183841.85,124546.27,102301.01,47,31250.0,31250.0,0,6,Special Mention (Qualitative),Human Flagged (Override),0,0
+7119,20119,Healthcare Facility #7119,1998-12,Healthcare & MedTech,2000000,2000000,231385.23,142597.75,184882.4,146575.69,35,55555.56,55555.56,0,28,Special Mention (Qualitative),Human Flagged (Override),0,0
+7120,20120,Retail Facility #7120,1998-12,Retail & Distribution,3500000,3500000,204382.8,126657.64,370626.5,278484.8,29,145833.33,145833.33,0,12,Special Mention (Qualitative),Human Flagged (Override),0,0
+7121,20121,Enterprise Facility #7121,1998-12,Enterprise Software & SaaS,750000,750000,193337.13,133682.35,27769.2,18894.07,85,12500.0,12500.0,0,26,Special Mention (Qualitative),Human Flagged (Override),0,0
+7122,20122,Healthcare Facility #7122,1998-12,Healthcare & MedTech,2000000,2000000,177508.15,113950.74,134262.69,112737.52,61,55555.56,55555.56,0,23,Special Mention (Qualitative),Human Flagged (Override),0,0
+7123,20123,Retail Facility #7123,1998-12,Retail & Distribution,250000,250000,281538.66,173783.96,22268.93,19425.08,68,10416.67,10416.67,0,35,Special Mention (Qualitative),Human Flagged (Override),0,0
+7124,20124,Enterprise Facility #7124,1998-12,Enterprise Software & SaaS,2000000,2000000,192557.38,103294.67,308136.38,201275.08,51,83333.33,83333.33,0,29,Special Mention (Qualitative),Human Flagged (Override),0,0
+7125,20125,Healthcare Facility #7125,1998-12,Healthcare & MedTech,2000000,2000000,51881.78,34515.42,85834.62,60408.61,89,41666.67,41666.67,0,30,Special Mention (Qualitative),Human Flagged (Override),0,0
+7126,20126,Precision Facility #7126,1998-12,Precision Engineering,750000,750000,172673.57,105386.68,69882.61,55636.54,70,20833.33,20833.33,0,45,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7127,20127,Commercial Facility #7127,1998-12,Commercial Real Estate,250000,250000,180471.77,77450.83,42406.55,30532.88,86,10416.67,10416.67,0,14,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7128,20128,Logistics Facility #7128,1998-12,Logistics & Fleet,500000,500000,236533.1,132945.26,22420.22,19468.77,93,8333.33,8333.33,0,30,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7129,20129,Precision Facility #7129,1998-12,Precision Engineering,3500000,3500000,214304.36,146094.69,196689.05,165562.89,53,58333.33,58333.33,0,15,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7130,20130,Commercial Facility #7130,1998-12,Commercial Real Estate,250000,250000,280248.8,120452.72,19889.71,17276.75,65,6944.44,6944.44,0,29,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7131,20131,Logistics Facility #7131,1998-12,Logistics & Fleet,2000000,2000000,311256.89,213118.6,81055.02,57828.93,76,41666.67,41666.67,0,47,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7132,20132,Precision Facility #7132,1998-12,Precision Engineering,250000,250000,50873.3,32357.37,23195.06,18262.48,49,6944.44,6944.44,0,48,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7133,20133,Commercial Facility #7133,1998-12,Commercial Real Estate,500000,500000,101968.28,47393.37,27287.01,22538.69,47,13888.89,13888.89,0,42,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7134,20134,Logistics Facility #7134,1998-12,Logistics & Fleet,750000,750000,316570.01,177932.81,77045.61,67517.11,40,31250.0,31250.0,0,15,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7135,20135,Precision Facility #7135,1998-12,Precision Engineering,250000,250000,261818.67,150979.27,22045.09,16145.73,20,10416.67,10416.67,0,48,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7136,20136,Commercial Facility #7136,1998-12,Commercial Real Estate,500000,500000,76253.56,31955.38,43837.92,32739.08,75,20833.33,20833.33,0,22,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7137,20137,Logistics Facility #7137,1998-12,Logistics & Fleet,750000,750000,214154.38,132384.43,90150.41,63191.51,84,31250.0,31250.0,0,38,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7138,20138,Precision Facility #7138,1998-12,Precision Engineering,750000,750000,155444.74,94172.97,60811.91,46227.14,80,31250.0,31250.0,0,35,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7139,20139,Commercial Facility #7139,1998-12,Commercial Real Estate,3500000,3500000,85791.8,37564.58,577243.35,417973.67,92,145833.33,145833.33,0,34,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7140,20140,Logistics Facility #7140,1998-12,Logistics & Fleet,2000000,2000000,169771.74,98744.0,139570.21,107752.12,30,33333.33,33333.33,0,26,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7141,20141,Precision Facility #7141,1998-12,Precision Engineering,3500000,3500000,158798.73,102937.43,275349.65,235220.45,69,97222.22,97222.22,0,13,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7142,20142,Commercial Facility #7142,1998-12,Commercial Real Estate,1200000,1200000,147932.78,65947.2,70605.84,56694.71,78,25000.0,25000.0,0,12,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7143,20143,Logistics Facility #7143,1998-12,Logistics & Fleet,250000,250000,248168.9,159704.33,21080.76,14170.69,89,10416.67,10416.67,0,11,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7144,20144,Precision Facility #7144,1998-12,Precision Engineering,250000,250000,285242.03,194631.75,17750.15,13214.74,72,5208.33,5208.33,0,43,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7145,20145,Commercial Facility #7145,1998-12,Commercial Real Estate,3500000,3500000,203927.59,94586.03,236321.78,172722.54,79,72916.67,72916.67,0,9,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7146,20146,Logistics Facility #7146,1998-12,Logistics & Fleet,500000,500000,254716.55,145756.45,39884.35,29296.61,72,10416.67,10416.67,0,12,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7147,20147,Precision Facility #7147,1998-12,Precision Engineering,2000000,2000000,235704.58,96329.15,271798.97,217792.84,52,83333.33,83333.33,0,45,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7148,20148,Commercial Facility #7148,1998-12,Commercial Real Estate,3500000,3500000,84394.16,50400.48,192679.11,133280.63,26,72916.67,72916.67,0,25,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7149,20149,Logistics Facility #7149,1998-12,Logistics & Fleet,500000,500000,148453.46,79584.97,42087.88,32492.31,38,20833.33,20833.33,0,46,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1
+7150,20150,Precision Facility #7150,1998-12,Precision Engineering,750000,750000,68363.19,28424.23,57256.34,44691.24,38,15625.0,15625.0,0,25,Watchlist (1-29 DPD),Model Alert (Pending Review),1,1

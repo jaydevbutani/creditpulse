@@ -1,0 +1,30 @@
+{
+  "pr_auc": 1.0,
+  "roc_auc": 1.0,
+  "brier": 0.0596,
+  "ece": 0.2379,
+  "capture@10": 0.2,
+  "best_C": 0.001,
+  "tuning_history": [
+    {
+      "C": 0.001,
+      "val_pr_auc": 1.0
+    },
+    {
+      "C": 0.01,
+      "val_pr_auc": 1.0
+    },
+    {
+      "C": 0.1,
+      "val_pr_auc": 1.0
+    },
+    {
+      "C": 1.0,
+      "val_pr_auc": 1.0
+    },
+    {
+      "C": 10.0,
+      "val_pr_auc": 1.0
+    }
+  ]
+}

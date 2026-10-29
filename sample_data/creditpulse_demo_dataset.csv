@@ -1,0 +1,151 @@
+loan_id,account_id,borrower_name,sector,principal_amount,duration_months,loan_payment,balance_min,days_below_zero,inflow,outflow,dpd_status,scenario_cohort
+6001,11001,Nexus Health Systems #1,Precision Engineering,2000000,36,58333,150258,0,291205,200688,Performing (0 DPD),Stable / Low Risk
+6002,11002,Nexus Global #2,Precision Engineering,650000,36,18958,47778,0,112321,86092,Performing (0 DPD),Stable / Low Risk
+6003,11003,Summit Holdings #3,Healthcare & MedTech,850000,12,74375,86072,0,357884,245647,Performing (0 DPD),Stable / Low Risk
+6004,11004,Apex Manufacturing #4,Healthcare & MedTech,650000,36,18958,96632,0,112953,78316,Performing (0 DPD),Stable / Low Risk
+6005,11005,Pinnacle Logistics #5,Precision Engineering,150000,24,6562,173099,0,38808,29559,Performing (0 DPD),Stable / Low Risk
+6006,11006,Sterling Manufacturing #6,Precision Engineering,250000,48,5468,77538,0,28478,20561,Performing (0 DPD),Stable / Low Risk
+6007,11007,Horizon Logistics #7,Retail Distribution,150000,48,3281,69601,0,17679,12110,Performing (0 DPD),Stable / Low Risk
+6008,11008,Summit Manufacturing #8,Healthcare & MedTech,1200000,60,21000,175893,0,114194,89973,Performing (0 DPD),Stable / Low Risk
+6009,11009,Quantum Health Systems #9,Retail Distribution,2000000,48,43750,51105,0,188708,127894,Performing (0 DPD),Stable / Low Risk
+6010,11010,Vanguard Industries #10,Enterprise Software & SaaS,150000,48,3281,126949,0,13747,9062,Performing (0 DPD),Stable / Low Risk
+6011,11011,Crestview Technologies #11,Commercial Real Estate,2000000,12,175000,149253,0,699438,420435,Performing (0 DPD),Stable / Low Risk
+6012,11012,Titan Logistics #12,Commercial Real Estate,400000,36,11666,149121,0,42990,28876,Performing (0 DPD),Stable / Low Risk
+6013,11013,Sterling Capital #13,Commercial Real Estate,650000,24,28437,57880,0,125891,92374,Performing (0 DPD),Stable / Low Risk
+6014,11014,Pinnacle Logistics #14,Healthcare & MedTech,1200000,36,35000,120767,0,156006,123922,Performing (0 DPD),Stable / Low Risk
+6015,11015,Omni Technologies #15,Precision Engineering,250000,36,7291,115568,0,33311,20155,Performing (0 DPD),Stable / Low Risk
+6016,11016,Crestview Logistics #16,Commercial Real Estate,650000,60,11375,113657,0,65621,42644,Performing (0 DPD),Stable / Low Risk
+6017,11017,Crestview Health Systems #17,Precision Engineering,2000000,36,58333,138795,0,332566,241067,Performing (0 DPD),Stable / Low Risk
+6018,11018,Quantum Ventures #18,Precision Engineering,1200000,48,26250,153495,0,104118,81057,Performing (0 DPD),Stable / Low Risk
+6019,11019,Titan Manufacturing #19,Healthcare & MedTech,150000,12,13125,81737,0,67189,40320,Performing (0 DPD),Stable / Low Risk
+6020,11020,Crestview Ventures #20,Logistics & Fleet,2000000,36,58333,101350,0,236556,147604,Performing (0 DPD),Stable / Low Risk
+6021,11021,Zenith Global #21,Logistics & Fleet,1200000,12,105000,99517,0,384534,250248,Performing (0 DPD),Stable / Low Risk
+6022,11022,Zenith Capital #22,Enterprise Software & SaaS,400000,12,35000,64991,0,209802,137075,Performing (0 DPD),Stable / Low Risk
+6023,11023,Vanguard Holdings #23,Healthcare & MedTech,1200000,60,21000,91584,0,106803,78622,Performing (0 DPD),Stable / Low Risk
+6024,11024,Pinnacle Manufacturing #24,Retail Distribution,2000000,48,43750,55915,0,193555,125507,Performing (0 DPD),Stable / Low Risk
+6025,11025,Summit Global #25,Precision Engineering,650000,24,28437,130526,0,137619,85056,Performing (0 DPD),Stable / Low Risk
+6026,11026,Apex Ventures #26,Healthcare & MedTech,400000,60,7000,160878,0,30204,19452,Performing (0 DPD),Stable / Low Risk
+6027,11027,Atlas Logistics #27,Logistics & Fleet,650000,48,14218,171970,0,63894,44952,Performing (0 DPD),Stable / Low Risk
+6028,11028,Horizon Technologies #28,Logistics & Fleet,650000,12,56875,60318,0,330542,256324,Performing (0 DPD),Stable / Low Risk
+6029,11029,Omni Capital #29,Healthcare & MedTech,250000,12,21875,114745,0,90826,72592,Performing (0 DPD),Stable / Low Risk
+6030,11030,Quantum Industries #30,Precision Engineering,400000,12,35000,82647,0,183781,141388,Performing (0 DPD),Stable / Low Risk
+6031,11031,Beacon Global #31,Retail Distribution,150000,48,3281,4673,2,5254,6126,Watchlist (1-29 DPD),Gradual Deterioration
+6032,11032,Quantum Ventures #32,Logistics & Fleet,150000,60,2625,6271,2,4014,4770,Watchlist (1-29 DPD),Gradual Deterioration
+6033,11033,Crestview Ventures #33,Healthcare & MedTech,150000,48,3281,5897,1,4289,4817,Watchlist (1-29 DPD),Gradual Deterioration
+6034,11034,Horizon Capital #34,Logistics & Fleet,150000,12,13125,8340,3,18645,20566,Watchlist (1-29 DPD),Gradual Deterioration
+6035,11035,Quantum Solutions #35,Retail Distribution,850000,36,24791,11136,3,36210,40555,Watchlist (1-29 DPD),Gradual Deterioration
+6036,11036,Apex Technologies #36,Precision Engineering,650000,60,11375,7993,3,18895,20004,Watchlist (1-29 DPD),Gradual Deterioration
+6037,11037,Zenith Industries #37,Retail Distribution,400000,48,8750,4123,1,12747,15848,Watchlist (1-29 DPD),Gradual Deterioration
+6038,11038,Omni Technologies #38,Healthcare & MedTech,2000000,60,35000,7080,3,47637,54642,Watchlist (1-29 DPD),Gradual Deterioration
+6039,11039,Vanguard Ventures #39,Enterprise Software & SaaS,2000000,24,87500,11440,2,110101,129148,Watchlist (1-29 DPD),Gradual Deterioration
+6040,11040,Summit Capital #40,Enterprise Software & SaaS,2000000,36,58333,6362,2,95926,114094,Watchlist (1-29 DPD),Gradual Deterioration
+6041,11041,Titan Solutions #41,Precision Engineering,250000,24,10937,10480,1,17137,18273,Watchlist (1-29 DPD),Gradual Deterioration
+6042,11042,Nexus Ventures #42,Healthcare & MedTech,850000,48,18593,9199,2,31189,38300,Watchlist (1-29 DPD),Gradual Deterioration
+6043,11043,Nexus Holdings #43,Enterprise Software & SaaS,2000000,36,58333,7724,3,104363,127091,Watchlist (1-29 DPD),Gradual Deterioration
+6044,11044,Atlas Solutions #44,Commercial Real Estate,650000,24,28437,10580,2,43288,48280,Watchlist (1-29 DPD),Gradual Deterioration
+6045,11045,Horizon Industries #45,Healthcare & MedTech,650000,48,14218,8983,2,17502,20237,Watchlist (1-29 DPD),Gradual Deterioration
+6046,11046,Meridian Logistics #46,Healthcare & MedTech,850000,24,37187,8130,2,45540,51449,Watchlist (1-29 DPD),Gradual Deterioration
+6047,11047,Omni Manufacturing #47,Enterprise Software & SaaS,850000,24,37187,11701,3,54181,64350,Watchlist (1-29 DPD),Gradual Deterioration
+6048,11048,Apex Manufacturing #48,Enterprise Software & SaaS,150000,24,6562,5918,2,10687,12632,Watchlist (1-29 DPD),Gradual Deterioration
+6049,11049,Pinnacle Technologies #49,Precision Engineering,2000000,60,35000,8893,3,43002,50020,Watchlist (1-29 DPD),Gradual Deterioration
+6050,11050,Omni Industries #50,Retail Distribution,150000,60,2625,4928,1,3298,3668,Watchlist (1-29 DPD),Gradual Deterioration
+6051,11051,Quantum Health Systems #51,Precision Engineering,650000,24,28437,10106,1,42202,45773,Watchlist (1-29 DPD),Gradual Deterioration
+6052,11052,Quantum Industries #52,Enterprise Software & SaaS,250000,60,4375,11093,3,5290,6542,Watchlist (1-29 DPD),Gradual Deterioration
+6053,11053,Apex Global #53,Precision Engineering,850000,48,18593,8926,3,32845,40183,Watchlist (1-29 DPD),Gradual Deterioration
+6054,11054,Titan Health Systems #54,Healthcare & MedTech,250000,36,7291,9146,1,12297,14930,Watchlist (1-29 DPD),Gradual Deterioration
+6055,11055,Zenith Logistics #55,Commercial Real Estate,150000,24,6562,5653,1,8147,8718,Watchlist (1-29 DPD),Gradual Deterioration
+6056,11056,Vanguard Logistics #56,Enterprise Software & SaaS,400000,12,35000,9245,1,59742,63007,Watchlist (1-29 DPD),Gradual Deterioration
+6057,11057,Vanguard Logistics #57,Commercial Real Estate,2000000,48,43750,9543,2,69009,84570,Watchlist (1-29 DPD),Gradual Deterioration
+6058,11058,Beacon Ventures #58,Precision Engineering,850000,12,74375,8383,1,122746,148690,Watchlist (1-29 DPD),Gradual Deterioration
+6059,11059,Apex Logistics #59,Healthcare & MedTech,250000,12,21875,10211,3,38466,46993,Watchlist (1-29 DPD),Gradual Deterioration
+6060,11060,Apex Capital #60,Precision Engineering,2000000,12,175000,5905,2,304768,350803,Watchlist (1-29 DPD),Gradual Deterioration
+6061,11061,Sterling Solutions #61,Precision Engineering,400000,36,11666,-29431,6,10057,14814,Distressed (60-89 DPD),Sudden Acute Distress
+6062,11062,Nexus Health Systems #62,Logistics & Fleet,250000,60,4375,-41331,13,3156,4955,Distressed (60-89 DPD),Sudden Acute Distress
+6063,11063,Pinnacle Capital #63,Commercial Real Estate,2000000,60,35000,-7762,17,31443,45425,Distressed (60-89 DPD),Sudden Acute Distress
+6064,11064,Omni Capital #64,Precision Engineering,400000,36,11666,-40317,7,9386,17782,Distressed (60-89 DPD),Sudden Acute Distress
+6065,11065,Crestview Solutions #65,Retail Distribution,850000,24,37187,-29133,16,20774,37614,Distressed (60-89 DPD),Sudden Acute Distress
+6066,11066,Summit Logistics #66,Precision Engineering,150000,48,3281,-35532,16,2417,4060,Distressed (60-89 DPD),Sudden Acute Distress
+6067,11067,Zenith Logistics #67,Precision Engineering,650000,36,18958,-35051,9,12773,20474,Distressed (60-89 DPD),Sudden Acute Distress
+6068,11068,Vanguard Manufacturing #68,Healthcare & MedTech,650000,60,11375,-12088,14,8786,13969,Distressed (60-89 DPD),Sudden Acute Distress
+6069,11069,Sterling Technologies #69,Commercial Real Estate,150000,60,2625,-6471,6,2330,3342,Distressed (60-89 DPD),Sudden Acute Distress
+6070,11070,Pinnacle Solutions #70,Precision Engineering,400000,48,8750,-42048,12,7767,14124,Distressed (60-89 DPD),Sudden Acute Distress
+6071,11071,Sterling Technologies #71,Retail Distribution,2000000,12,175000,-19897,13,150581,216288,Distressed (60-89 DPD),Sudden Acute Distress
+6072,11072,Zenith Manufacturing #72,Retail Distribution,650000,48,14218,-31573,8,10787,18452,Distressed (60-89 DPD),Sudden Acute Distress
+6073,11073,Zenith Holdings #73,Healthcare & MedTech,650000,60,11375,-6024,17,8864,16211,Distressed (60-89 DPD),Sudden Acute Distress
+6074,11074,Apex Industries #74,Healthcare & MedTech,850000,48,18593,-34161,7,9863,21229,Distressed (60-89 DPD),Sudden Acute Distress
+6075,11075,Omni Industries #75,Commercial Real Estate,250000,24,10937,-7690,16,5666,8051,Distressed (60-89 DPD),Sudden Acute Distress
+6076,11076,Apex Solutions #76,Commercial Real Estate,250000,12,21875,-29930,14,14376,29662,Distressed (60-89 DPD),Sudden Acute Distress
+6077,11077,Apex Technologies #77,Enterprise Software & SaaS,150000,36,4375,-39645,6,2319,4529,Distressed (60-89 DPD),Sudden Acute Distress
+6078,11078,Pinnacle Industries #78,Retail Distribution,400000,60,7000,-21594,14,5619,9565,Distressed (60-89 DPD),Sudden Acute Distress
+6079,11079,Pinnacle Ventures #79,Retail Distribution,150000,36,4375,-34010,8,3724,7468,Distressed (60-89 DPD),Sudden Acute Distress
+6080,11080,Vanguard Global #80,Enterprise Software & SaaS,250000,24,10937,-25951,15,6814,13989,Distressed (60-89 DPD),Sudden Acute Distress
+6081,11081,Zenith Industries #81,Retail Distribution,1200000,36,35000,-28860,7,17902,35877,Distressed (60-89 DPD),Sudden Acute Distress
+6082,11082,Pinnacle Holdings #82,Logistics & Fleet,400000,48,8750,-5781,13,6603,12174,Distressed (60-89 DPD),Sudden Acute Distress
+6083,11083,Omni Holdings #83,Healthcare & MedTech,150000,12,13125,-13653,10,9828,20539,Distressed (60-89 DPD),Sudden Acute Distress
+6084,11084,Pinnacle Health Systems #84,Enterprise Software & SaaS,150000,24,6562,-14243,6,3401,6450,Distressed (60-89 DPD),Sudden Acute Distress
+6085,11085,Vanguard Logistics #85,Commercial Real Estate,2000000,36,58333,-39446,13,33410,56012,Distressed (60-89 DPD),Sudden Acute Distress
+6086,11086,Omni Logistics #86,Logistics & Fleet,850000,24,37187,42087,0,77413,69724,Performing (0 DPD),High Volatility
+6087,11087,Zenith Manufacturing #87,Precision Engineering,1200000,60,21000,39692,0,61352,55946,Performing (0 DPD),High Volatility
+6088,11088,Vanguard Technologies #88,Retail Distribution,250000,60,4375,29471,1,15744,16348,Performing (0 DPD),High Volatility
+6089,11089,Meridian Global #89,Retail Distribution,400000,60,7000,15116,1,25286,27169,Performing (0 DPD),High Volatility
+6090,11090,Crestview Health Systems #90,Retail Distribution,1200000,24,52500,49197,1,153566,164966,Performing (0 DPD),High Volatility
+6091,11091,Quantum Global #91,Logistics & Fleet,2000000,36,58333,55284,1,204120,175367,Performing (0 DPD),High Volatility
+6092,11092,Vanguard Manufacturing #92,Retail Distribution,400000,36,11666,25911,0,40537,36673,Performing (0 DPD),High Volatility
+6093,11093,Nexus Ventures #93,Commercial Real Estate,2000000,24,87500,39090,0,330842,340131,Performing (0 DPD),High Volatility
+6094,11094,Beacon Manufacturing #94,Logistics & Fleet,150000,60,2625,36581,1,8069,8279,Performing (0 DPD),High Volatility
+6095,11095,Horizon Global #95,Commercial Real Estate,650000,36,18958,32044,0,51682,53944,Performing (0 DPD),High Volatility
+6096,11096,Vanguard Global #96,Logistics & Fleet,850000,60,14875,57016,0,32778,29364,Performing (0 DPD),High Volatility
+6097,11097,Nexus Health Systems #97,Retail Distribution,400000,12,35000,18610,0,71276,75487,Performing (0 DPD),High Volatility
+6098,11098,Horizon Solutions #98,Enterprise Software & SaaS,650000,48,14218,56282,0,51670,47917,Performing (0 DPD),High Volatility
+6099,11099,Horizon Solutions #99,Logistics & Fleet,1200000,12,105000,47330,0,330038,308253,Performing (0 DPD),High Volatility
+6100,11100,Zenith Industries #100,Retail Distribution,250000,48,5468,34144,0,18987,19156,Performing (0 DPD),High Volatility
+6101,11101,Apex Manufacturing #101,Retail Distribution,1200000,60,21000,37774,0,62207,62815,Performing (0 DPD),High Volatility
+6102,11102,Apex Solutions #102,Enterprise Software & SaaS,250000,60,4375,17851,1,10515,11097,Performing (0 DPD),High Volatility
+6103,11103,Beacon Technologies #103,Precision Engineering,150000,12,13125,20251,0,38628,37606,Performing (0 DPD),High Volatility
+6104,11104,Quantum Technologies #104,Precision Engineering,1200000,48,26250,58426,1,101479,116424,Performing (0 DPD),High Volatility
+6105,11105,Vanguard Logistics #105,Logistics & Fleet,150000,48,3281,52882,1,11994,12895,Performing (0 DPD),High Volatility
+6106,11106,Zenith Logistics #106,Precision Engineering,850000,60,14875,25606,1,45311,43392,Performing (0 DPD),High Volatility
+6107,11107,Crestview Manufacturing #107,Commercial Real Estate,250000,36,7291,43084,0,25483,25503,Performing (0 DPD),High Volatility
+6108,11108,Sterling Technologies #108,Commercial Real Estate,2000000,24,87500,39459,1,215079,217843,Performing (0 DPD),High Volatility
+6109,11109,Summit Solutions #109,Logistics & Fleet,2000000,36,58333,30070,1,136117,151578,Performing (0 DPD),High Volatility
+6110,11110,Apex Health Systems #110,Retail Distribution,2000000,36,58333,50486,1,204445,217139,Performing (0 DPD),High Volatility
+6111,11111,Titan Capital #111,Commercial Real Estate,1200000,48,26250,60645,0,105654,87852,Performing (0 DPD),Human Flagged / Model Low
+6112,11112,Apex Solutions #112,Retail Distribution,850000,48,18593,55565,0,68941,53452,Performing (0 DPD),Human Flagged / Model Low
+6113,11113,Horizon Industries #113,Precision Engineering,2000000,48,43750,67501,0,172378,137242,Performing (0 DPD),Human Flagged / Model Low
+6114,11114,Omni Health Systems #114,Healthcare & MedTech,250000,36,7291,61956,0,30283,25554,Performing (0 DPD),Human Flagged / Model Low
+6115,11115,Horizon Solutions #115,Retail Distribution,2000000,24,87500,77627,0,245586,193505,Performing (0 DPD),Human Flagged / Model Low
+6116,11116,Quantum Holdings #116,Commercial Real Estate,150000,48,3281,61683,0,8873,7433,Performing (0 DPD),Human Flagged / Model Low
+6117,11117,Pinnacle Global #117,Precision Engineering,2000000,24,87500,69706,0,284276,201932,Performing (0 DPD),Human Flagged / Model Low
+6118,11118,Omni Global #118,Commercial Real Estate,1200000,36,35000,55287,0,95426,80895,Performing (0 DPD),Human Flagged / Model Low
+6119,11119,Quantum Health Systems #119,Retail Distribution,2000000,12,175000,49946,0,546505,401194,Performing (0 DPD),Human Flagged / Model Low
+6120,11120,Meridian Industries #120,Commercial Real Estate,850000,12,74375,44251,0,303121,239634,Performing (0 DPD),Human Flagged / Model Low
+6121,11121,Omni Health Systems #121,Commercial Real Estate,250000,36,7291,76533,0,25018,19317,Performing (0 DPD),Human Flagged / Model Low
+6122,11122,Titan Technologies #122,Logistics & Fleet,400000,48,8750,76073,0,26218,20624,Performing (0 DPD),Human Flagged / Model Low
+6123,11123,Beacon Solutions #123,Precision Engineering,150000,12,13125,70122,0,40099,29393,Performing (0 DPD),Human Flagged / Model Low
+6124,11124,Vanguard Industries #124,Commercial Real Estate,2000000,12,175000,78248,0,489531,373117,Performing (0 DPD),Human Flagged / Model Low
+6125,11125,Zenith Global #125,Commercial Real Estate,2000000,12,175000,48947,0,576561,440503,Performing (0 DPD),Human Flagged / Model Low
+6126,11126,Horizon Logistics #126,Retail Distribution,1200000,60,21000,63123,0,68364,56433,Performing (0 DPD),Human Flagged / Model Low
+6127,11127,Omni Holdings #127,Commercial Real Estate,1200000,36,35000,55397,0,124207,95156,Performing (0 DPD),Human Flagged / Model Low
+6128,11128,Vanguard Solutions #128,Logistics & Fleet,2000000,48,43750,43186,0,184781,155570,Performing (0 DPD),Human Flagged / Model Low
+6129,11129,Atlas Manufacturing #129,Logistics & Fleet,1200000,24,52500,53393,0,133915,96877,Performing (0 DPD),Human Flagged / Model Low
+6130,11130,Vanguard Capital #130,Precision Engineering,150000,12,13125,44988,0,38878,31132,Performing (0 DPD),Human Flagged / Model Low
+6131,11131,Crestview Global #131,Retail Distribution,150000,60,2625,-11964,7,2612,3094,Past Due (30-59 DPD),Model Alert / High Risk
+6132,11132,Horizon Global #132,Retail Distribution,400000,48,8750,1054,4,9297,11745,Past Due (30-59 DPD),Model Alert / High Risk
+6133,11133,Vanguard Capital #133,Enterprise Software & SaaS,2000000,12,175000,-11465,4,170200,230461,Past Due (30-59 DPD),Model Alert / High Risk
+6134,11134,Zenith Holdings #134,Enterprise Software & SaaS,150000,60,2625,-9189,5,2761,3745,Past Due (30-59 DPD),Model Alert / High Risk
+6135,11135,Zenith Health Systems #135,Precision Engineering,850000,12,74375,-7585,5,95153,134856,Past Due (30-59 DPD),Model Alert / High Risk
+6136,11136,Horizon Technologies #136,Enterprise Software & SaaS,1200000,36,35000,207,7,37452,43364,Past Due (30-59 DPD),Model Alert / High Risk
+6137,11137,Quantum Ventures #137,Enterprise Software & SaaS,850000,12,74375,-10615,4,91776,137162,Past Due (30-59 DPD),Model Alert / High Risk
+6138,11138,Atlas Holdings #138,Precision Engineering,400000,24,17500,-5995,8,19236,22573,Past Due (30-59 DPD),Model Alert / High Risk
+6139,11139,Pinnacle Ventures #139,Retail Distribution,250000,48,5468,-11490,4,5220,7647,Past Due (30-59 DPD),Model Alert / High Risk
+6140,11140,Summit Global #140,Enterprise Software & SaaS,650000,60,11375,-3694,4,14398,18668,Past Due (30-59 DPD),Model Alert / High Risk
+6141,11141,Zenith Manufacturing #141,Retail Distribution,250000,48,5468,1296,4,5118,7266,Past Due (30-59 DPD),Model Alert / High Risk
+6142,11142,Crestview Industries #142,Logistics & Fleet,400000,48,8750,-2776,5,9857,12977,Past Due (30-59 DPD),Model Alert / High Risk
+6143,11143,Meridian Global #143,Retail Distribution,1200000,60,21000,-6776,5,23434,28277,Past Due (30-59 DPD),Model Alert / High Risk
+6144,11144,Beacon Technologies #144,Retail Distribution,400000,60,7000,-12370,7,7627,9690,Past Due (30-59 DPD),Model Alert / High Risk
+6145,11145,Horizon Technologies #145,Commercial Real Estate,150000,60,2625,-3297,6,2621,3765,Past Due (30-59 DPD),Model Alert / High Risk
+6146,11146,Pinnacle Logistics #146,Retail Distribution,1200000,24,52500,-13247,5,64206,95457,Past Due (30-59 DPD),Model Alert / High Risk
+6147,11147,Apex Manufacturing #147,Commercial Real Estate,2000000,12,175000,-11852,6,218606,307420,Past Due (30-59 DPD),Model Alert / High Risk
+6148,11148,Pinnacle Technologies #148,Precision Engineering,1200000,12,105000,357,7,123613,144387,Past Due (30-59 DPD),Model Alert / High Risk
+6149,11149,Atlas Manufacturing #149,Commercial Real Estate,2000000,24,87500,-5344,8,79938,111441,Past Due (30-59 DPD),Model Alert / High Risk
+6150,11150,Sterling Logistics #150,Enterprise Software & SaaS,400000,60,7000,-6938,8,8664,10931,Past Due (30-59 DPD),Model Alert / High Risk

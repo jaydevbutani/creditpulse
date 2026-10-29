@@ -1,0 +1,19 @@
+{
+  "R-29": {
+    "pass": true,
+    "m1_run_to_run": 0.0,
+    "m1_vs_plain_sklearn": 0.0,
+    "m2_run_to_run": 0.0,
+    "m2_vs_pipeline_artifact": 0.0
+  },
+  "R-01_rebuild": {
+    "pass": true,
+    "identical": {
+      "data/processed/snapshots.parquet": true,
+      "data/processed/panel.parquet": true,
+      "data/processed/loans_events.parquet": true,
+      "tokens": true,
+      "preprocessor": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.13"}
+      - run: pip install --index-url https://download.pytorch.org/whl/cpu torch && pip install -r requirements.txt ruff && pip install -e .
+      - run: ruff check src tests app --select E,F --ignore E501
+      # data is versioned outside git (DVC); unit tests run without it, data-dependent tests skip
+      - run: pytest -q

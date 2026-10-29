@@ -1,0 +1,63 @@
+{
+  "shap_top10": {
+    "bal_min__std": 0.6462,
+    "bal_min__min": 0.4134,
+    "bal_eom__min": 0.4042,
+    "n_credit__mean": 0.2873,
+    "sh_transfer_out__mean": 0.2585,
+    "bal_z__min": 0.2409,
+    "bal_max__std": 0.2401,
+    "counterparty_share__mean": 0.2336,
+    "n_disponents__last": 0.2319,
+    "month_sin__slope6": 0.2128
+  },
+  "R-50": {
+    "pass": false,
+    "mean_rank_corr_across_seeds": 0.5894897230044976,
+    "min": 0.4451052919171116,
+    "pairs": 10
+  },
+  "R-48": {
+    "pass": true,
+    "random_vs_random_rank_corr": 0.21104619393888446,
+    "random_vs_trained_rank_corr": 0.39279559497288896,
+    "domain_features_in_trained_top15": [
+      "bal_eom",
+      "bal_mean",
+      "bal_min",
+      "bal_rm3"
+    ]
+  },
+  "R-49": {
+    "pass": true,
+    "attention_vs_permutation_rank_corr": 0.4895104895104896,
+    "ig_vs_permutation_rank_corr": 0.09090909090909093,
+    "statement": "Attention is reported as a supplementary view only; agreement with permutation importance is shown here and not hidden."
+  },
+  "ig_top10": {
+    "bal_min": 0.03830000013113022,
+    "counterparty_share": 0.03449999913573265,
+    "n_disponents": 0.033799998462200165,
+    "sh_transfer_out": 0.03359999880194664,
+    "inflow_rs6": 0.027000000700354576,
+    "bal_mean": 0.025599999353289604,
+    "n_credit": 0.024800000712275505,
+    "bal_eom": 0.024000000208616257,
+    "bal_rs6": 0.02370000071823597,
+    "due_flag": 0.023600000888109207
+  },
+  "perm_groups": {
+    "dynamics": 0.2098,
+    "balance": 0.0909,
+    "activity": 0.0524,
+    "cash_flow": 0.0518,
+    "account_static": 0.0437,
+    "loan_static": 0.0342,
+    "loan_servicing": 0.0211,
+    "time": 0.0014,
+    "masks": 0.0,
+    "distress": 0.0,
+    "obligations": -0.0449,
+    "channel_mix": -0.1105
+  }
+}

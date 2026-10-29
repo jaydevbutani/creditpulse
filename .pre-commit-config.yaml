@@ -1,0 +1,14 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.9
+    hooks:
+      - id: ruff
+        args: [--select, "E,F", --ignore, E501, --fix]
+      - id: ruff-format
+  - repo: local
+    hooks:
+      - id: pytest-fast
+        name: unit tests
+        entry: pytest -q tests/test_labels.py tests/test_metrics.py tests/test_deep.py
+        language: system
+        pass_filenames: false

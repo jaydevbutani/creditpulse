@@ -1,0 +1,16 @@
+loan_id,account_id,borrower_name,sector,origination_date,as_of_date,principal_amount,monthly_payment,duration_months,balance_eom,balance_min,inflow_monthly,outflow_monthly,days_negative_balance,dpd_status
+5314,1787,Apex Logistics Corp,Logistics & Fleet,1993-07-05,1998-06-30,96396,8033,12,14200,3200,84000,79000,4,30D Past Due
+5316,1801,Veloce Metro Properties,Commercial Real Estate,1993-07-11,1998-06-30,165960,4610,36,48500,18526,62000,58000,0,Performing (0 DPD)
+6863,11333,Quantum Cloudworks Inc,Enterprise Software & SaaS,1994-02-15,1998-06-30,254160,5295,48,89000,34200,112000,98000,0,Performing (0 DPD)
+5325,1843,Nordic Cold Chain LLC,Logistics & Fleet,1994-05-20,1998-06-30,105840,4410,24,21400,4100,43000,49000,6,15D Past Due
+52119,8821,Pacific Horizon Retail Group,Consumer & Retail,1994-11-01,1998-06-30,218000,6055,36,31200,8900,78000,82000,1,Performing (0 DPD)
+12884,4390,Helios BioHealth Equipment,Healthcare & MedTech,1995-01-18,1998-06-30,78400,3266,24,64000,42000,56000,48000,0,Performing (0 DPD)
+5334,1872,Titan Heavy Machinery Corp,Manufacturing,1994-08-10,1998-06-30,320000,8888,36,18500,-2100,92000,104000,12,45D Past Due
+5340,1910,Aura Renewable Power Ltd,Energy & Utilities,1995-03-22,1998-06-30,440000,9166,48,145000,98000,180000,160000,0,Performing (0 DPD)
+5352,1968,Beacon Precision Foundry,Manufacturing,1995-06-14,1998-06-30,142000,5916,24,28000,6400,61000,66000,3,15D Past Due
+5360,2012,Zenith Telecommunications,Enterprise Software & SaaS,1995-09-05,1998-06-30,380000,7916,48,210000,160000,140000,125000,0,Performing (0 DPD)
+5371,2065,Crestview Senior Living Facilities,Healthcare & MedTech,1995-12-10,1998-06-30,260000,7222,36,92000,54000,88000,81000,0,Performing (0 DPD)
+5382,2118,Pinnacle Air Cargo Express,Logistics & Fleet,1996-02-18,1998-06-30,188000,7833,24,15400,-850,64000,73000,9,30D Past Due
+5395,2180,Strata Urban Development,Commercial Real Estate,1996-05-25,1998-06-30,510000,10625,48,88000,19000,115000,122000,2,Performing (0 DPD)
+5402,2221,Valence Specialty Chemicals,Manufacturing,1996-08-30,1998-06-30,295000,8194,36,120000,78000,95000,87000,0,Performing (0 DPD)
+5411,2275,Novus Biotech Therapeutics,Healthcare & MedTech,1996-11-12,1998-06-30,340000,9444,36,165000,110000,130000,118000,0,Performing (0 DPD)

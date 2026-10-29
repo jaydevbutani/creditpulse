@@ -1,0 +1,27 @@
+{
+  "pr_auc": 1.0,
+  "roc_auc": 1.0,
+  "brier": 0.0057,
+  "ece": 0.051,
+  "capture@10": 0.2,
+  "best_penalizer": 0.01,
+  "concordance_index": 0.8744,
+  "tuning_history": [
+    {
+      "penalizer": 0.01,
+      "val_pr_auc": 1.0
+    },
+    {
+      "penalizer": 0.1,
+      "val_pr_auc": 1.0
+    },
+    {
+      "penalizer": 1.0,
+      "val_pr_auc": 1.0
+    },
+    {
+      "penalizer": 5.0,
+      "val_pr_auc": 1.0
+    }
+  ]
+}

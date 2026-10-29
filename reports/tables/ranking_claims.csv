@@ -1,0 +1,7 @@
+model,vs,gap,max_seed_std,ranking_claim_allowed_R34,paired_ci_excludes_zero_R47
+M5_transformer,M2_lgbm,0.1796464953731327,0.07463658254378144,True,False
+M6_multitask,M2_lgbm,0.06993827944885136,0.07532210155007522,False,False
+M7_pretrained,M2_lgbm,0.06337950635782078,0.03676174492405343,False,False
+M3_gru,M2_lgbm,0.23648395508308984,0.05888225759901382,True,True
+M4_lstm,M2_lgbm,0.12037900292861226,0.03635906311278247,True,False
+M1_logreg,M2_lgbm,0.09062754590035921,0.034775962232584515,True,False

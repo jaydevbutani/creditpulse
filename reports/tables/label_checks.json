@@ -1,0 +1,74 @@
+{
+  "R-14": {
+    "pass": true,
+    "bad_with_event": 1.0,
+    "good_with_event": 0.024752475247524754,
+    "by_route": {
+      "penalty_bad": 0.8421052631578947,
+      "missed_bad": 1.0,
+      "penalty_good": 0.009900990099009901,
+      "missed_good": 0.019801980198019802
+    },
+    "bad_without_event_loan_ids": []
+  },
+  "R-15": {
+    "pass": true,
+    "violations": 0
+  },
+  "R-16": {
+    "pass": true,
+    "negatives_past_end_only_repaid_loans": 102,
+    "censored_dropped_for_headA": 1670
+  },
+  "R-17": {
+    "pass": true,
+    "counts": {
+      "test": {
+        "snapshots": 731,
+        "positives": 29,
+        "loans": 142,
+        "event_loans": 9,
+        "loans_bad_status": 7
+      },
+      "train": {
+        "snapshots": 6916,
+        "positives": 147,
+        "loans": 305,
+        "event_loans": 29,
+        "loans_bad_status": 24
+      },
+      "val": {
+        "snapshots": 958,
+        "positives": 24,
+        "loans": 85,
+        "event_loans": 4,
+        "loans_bad_status": 2
+      }
+    }
+  },
+  "R-25": {
+    "pass": true
+  },
+  "R-26": {
+    "pass": true,
+    "origination_ranges": {
+      "train": [
+        "1993-07-11",
+        "1996-12-27"
+      ],
+      "val": [
+        "1997-01-03",
+        "1997-06-30"
+      ],
+      "test": [
+        "1997-07-01",
+        "1998-08-30"
+      ]
+    },
+    "note": "P1 orders loans by origination date. Strict calendar ordering of cutoffs is enforced in P2."
+  },
+  "R-27": {
+    "pass": true,
+    "fingerprint": "70b4fd9463bc7097"
+  }
+}

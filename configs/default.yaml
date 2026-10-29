@@ -1,0 +1,57 @@
+# CreditPulse — single source of truth for every run (report §5 engineering rules)
+seed: 42
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  artifacts: artifacts
+  reports: reports
+
+data:
+  data_end: "1998-12-31"
+  expected_rows: {trans: 1056320, loan: 682, account: 4500}
+  disbursement_window_days: [-3, 45]      # C9 search window around loan date
+  disbursement_tolerance: 0.02            # credit within 2% of loan amount
+  balance_tolerance: 0.15                 # R-09 tolerance (source balances are rounded to 0.1 CZK)
+
+labels:
+  bad_status: [B, D]
+  event_routes: [penalty, missed]         # D3: (a) SANKC. UROK, (b) missed UVER instalment
+  missed_threshold: 0.5                   # month counts as missed if paid < 50% of instalment
+  min_loan_age: 3                         # D1: cutoffs >= 3 months after origination
+  horizon: 6                              # D4
+  window: 12                              # D4
+
+splits:
+  p1:                                     # D5 loan-disjoint temporal, by origination date
+    train_end: "1996-12-31"
+    val_end: "1997-06-30"
+    inner_start: "1996-01-01"               # inner temporal tuning fold (train loans from 1996)
+  p2_boundaries: ["1996-12-31", "1997-06-30", "1997-12-31"]   # rolling origin
+
+features:
+  winsor_q: [0.01, 0.99]                  # C10 (train only)
+  psi_threshold: 0.25                     # R-22
+  leak_auc_threshold: 0.90                # R-24
+  max_tx_per_month: 64                    # hierarchical encoder cap
+
+train:
+  max_epochs: 100
+  patience: 20
+  batch_size: 128
+  grad_clip: 1.0
+  warmup_frac: 0.05
+  n_trials: 10                            # R-35: identical tuning budget for every model
+  seeds: [0, 1, 2, 3, 4]
+  lambda_hazard: [0.1, 0.3, 1.0]
+
+pretrain:
+  mask_frac: 0.15
+  epochs: 15
+  max_windows: 40000
+
+eval:
+  n_boot: 2000
+  capture_k: [5, 10, 20]
+  queue_fill: 0.10                        # lead-time threshold fills a 10% queue on validation
+  ece_bins: 5
